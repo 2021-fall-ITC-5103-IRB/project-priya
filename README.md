@@ -1,0 +1,1 @@
+-->This folder contains all the files of the website. All the webpages are linked to each other.
